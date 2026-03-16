@@ -65,20 +65,7 @@
 <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer; list-style: none; display: flex; align-items: center; color: #333; border-bottom: 1px solid #ccc; padding-bottom: 5px;">
 <span style="color: #757575; margin-right: 10px;">∨</span> 2. 설정
 </summary>
-<div style="padding: 15px 5px;">
-<div style="border: 1px solid #ccc; border-left: 5px solid #dba801; background: #f9f9f9; padding: 15px; margin: 10px 0; border-top-style: dashed; border-right-style: dashed; border-bottom-style: dashed;">
-<div style="margin-top: 10px; font-size: 0.85em; color: #000;">
-  <hr style="border: 0; border-top: 1px solid #ccc; margin: 10px 0;">
-  《원신》 공식 홈페이지 캐릭터 대사
-</div>
 
-<div style="color: #000; margin-top: 10px;">
-  온라인 게임 《원신》에 등장하는 폰타인성 소속 바위 원소 장병기 캐릭터.
-</div>
-<details open style="margin-top: 20px;">
-  <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer; list-style: none; display: flex; align-items: center; color: #000; border-bottom: 1px solid #ccc; padding-bottom: 5px;">
-    <span style="color: #000; margin-right: 10px;">∨</span> 2. 설정
-  </summary>
   <div style="padding: 15px 5px; color: #000;">
     <div style="border: 1px solid #ccc; border-left: 5px solid #dba801; background: #f9f9f9; padding: 15px; margin: 10px 0; border-top-style: dashed; border-right-style: dashed; border-bottom-style: dashed;">
       <div style="font-weight: bold; margin-bottom: 10px; color: #000;">공식 홈페이지 캐릭터 소개</div>
