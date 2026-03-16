@@ -24,12 +24,12 @@
   <div style="margin-bottom: -2px;">
     <img src="https://flagcdn.com/w40/us.png" width="18" style="vertical-align: middle;"> Noa Vicentino
   </div>
-  <div style="margin-bottom: -8px;">
-    <img src="https://flagcdn.com/w40/jp.png" width="18" style="vertical-align: middle;"> ノア・ヴィチェンティーノ
-  </div>
-  <div style="margin: 0;">
+    <div style="margin: 0;">
     <img src="https://flagcdn.com/w40/cn.png" width="18" style="vertical-align: middle;"> 
     <ruby>诺亚<rt style="font-size: 0.6em;">Nuòyà</rt></ruby> · <ruby>维琴蒂诺<rt style="font-size: 0.6em;">Wéiqíndìnuò</rt></ruby>
+  </div>
+  <div style="margin-bottom: -8px;">
+    <img src="https://flagcdn.com/w40/jp.png" width="18" style="vertical-align: middle;"> ノア・ヴィチェンティーノ
   </div>
 </div>
 </div>
