@@ -20,17 +20,18 @@
 <tr><th style="background: #dba801; color: #fff; padding: 6px; border: 1px solid #ddd; text-align: center;">운명의 자리</th><td style="padding: 6px 10px; border: 1px solid #ddd;">높은음자리</td></tr>
 <tr><th style="background: #dba801; color: #fff; padding: 6px; border: 1px solid #ddd; text-align: center;">출시 일자</th><td style="padding: 6px 10px; border: 1px solid #ddd;">20XX/XX/XX (N.N버전)</td></tr>
 <tr><th style="background: #dba801; color: #fff; padding: 6px; border: 1px solid #ddd; text-align: center;">비고</th><td style="padding: 6px 10px; border: 1px solid #ddd;">폰타인 예술가 협회 주요 후원인</td></tr>
-<tr><th style="background: #dba801; color: #fff; padding: 6px; border: 1px solid #ddd; text-align: center;">언어별 표기</th><td style="padding: 6px 10px; border: 1px solid #ddd; font-size: 0.9em; white-space: nowrap;"<div style="line-height: 1.2;">
-  <p style="margin-bottom: 5px;">
+<tr><th style="background: #dba801; color: #fff; padding: 6px; border: 1px solid #ddd; text-align: center;">언어별 표기</th><td style="padding: 6px 10px; border: 1px solid #ddd; font-size: 0.9em; white-space: nowrap;"<div style="line-height: 1.0;">
+  <div style="margin-bottom: -2px;">
     <img src="https://flagcdn.com/w40/us.png" width="18" style="vertical-align: middle;"> Noa Vicentino
-  </p>
-  <p style="margin-bottom: 5px;">
+  </div>
+  <div style="margin-bottom: -8px;">
     <img src="https://flagcdn.com/w40/jp.png" width="18" style="vertical-align: middle;"> ノア・ヴィチェンティーノ
-  </p>
-  <p style="margin: 0;">
+  </div>
+  <div style="margin: 0;">
     <img src="https://flagcdn.com/w40/cn.png" width="18" style="vertical-align: middle;"> 
-    <ruby>诺亚<rt>Nuòyà</rt></ruby> · <ruby>维琴蒂诺<rt>Wéiqíndìnuò</rt></ruby>
-  </p>
+    <ruby>诺亚<rt style="font-size: 0.6em;">Nuòyà</rt></ruby> · <ruby>维琴蒂诺<rt style="font-size: 0.6em;">Wéiqíndìnuò</rt></ruby>
+  </div>
+</div>
 </div>
 <tr><th style="background: #dba801; color: #fff; padding: 6px; border: 1px solid #ddd; text-align: center;">성우</th><td style="padding: 6px 10px; border: 1px solid #ddd; font-size: 0.9em; white-space: nowrap;">🇰🇷 몰라 / 🇯🇵 몰라잇</td></tr>
 </table>
